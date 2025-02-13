@@ -1,0 +1,2 @@
+# Python: TypeError when calculating average of list with non-numeric values
+This example demonstrates a common error when calculating the average of a list containing non-numeric values in Python. The `calculate_average` function attempts to handle an empty list but fails when encountering a list that includes a string, leading to a `TypeError`. The solution shows how to robustly handle this situation.
